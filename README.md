@@ -1,10 +1,10 @@
-# 🧠 Profile Generator
+# Profile Generator
 
 This is a simple Node.js command-line application that interactively asks a user a series of fun and personal questions, then generates a short profile paragraph based on their answers.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Asks the user questions one by one using the terminal
 - Collects responses in order
@@ -13,7 +13,7 @@ This is a simple Node.js command-line application that interactively asks a user
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - JavaScript (ES6+)
 - Node.js
@@ -21,7 +21,7 @@ This is a simple Node.js command-line application that interactively asks a user
 
 ---
 
-## 📋 Sample Questions
+## Sample Questions
 
 - What's your name?
 - What's an activity you like doing?
@@ -33,7 +33,7 @@ This is a simple Node.js command-line application that interactively asks a user
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 Make sure you have Node.js installed.
 
