@@ -1,47 +1,46 @@
-# Profile Generator
+🧑‍💻 Profile Generator
+A simple and fun Node.js command-line application that interactively asks the user a series of personal questions and then generates a custom profile paragraph based on their responses.
 
-This is a simple Node.js command-line application that interactively asks a user a series of fun and personal questions, then generates a short profile paragraph based on their answers.
+✨ Features
+Interactive terminal-based Q&A
 
----
+Dynamically builds a custom paragraph using your answers
 
-## Features
+Demonstrates use of Node's built-in readline module
 
-- Asks the user questions one by one using the terminal
-- Collects responses in order
-- Outputs a custom paragraph using the user’s answers
-- Demonstrates input/output handling using Node’s built-in `readline` module
+No external libraries or frameworks — just pure Node.js
 
----
+🧰 Tech Stack
+JavaScript (ES6+)
 
-## Tech Stack
+Node.js
 
-- JavaScript (ES6+)
-- Node.js
-- Built-in `readline` module (no external libraries needed)
+readline module (built into Node)
 
----
+📝 Sample Questions
+What’s your name?
 
-## Sample Questions
+What’s an activity you like doing?
 
-- What's your name?
-- What's an activity you like doing?
-- What do you listen to while doing that?
-- Which meal is your favorite?
-- What's your favorite thing to eat for that meal?
-- Which sport is your absolute favorite?
-- What's your superpower?
+What do you listen to while doing that?
 
----
+Which meal is your favorite?
 
-## How to Run
+What’s your favorite thing to eat for that meal?
 
-Make sure you have Node.js installed.
+Which sport is your absolute favorite?
 
-1. Clone this repo
-2. Open your terminal in the project folder
-3. Run the script:
+What’s your superpower?
 
-```bash
-node index.js
+🚀 How to Run
+Make sure Node.js is installed.
 
-Then just follow the prompts in the terminal!
+Clone the repo:
+
+git clone https://github.com/your-username/profile-generator.git
+cd profile-generator
+Run the script:
+
+
+node survey.js
+Answer each prompt — your profile paragraph will be generated and displayed!
